@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohit
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Object Oriented Programming in C++
-- 💞️ I’m looking to collaborate on projects in Python/C++
+- 🌱 I’m currently learning ExpressJS w/ MySQL
+- 💞️ I’m looking to collaborate on projects in Python/C++/JS
 - 📫 How to reach me mhtgupta.281@gmail.com
 
 - 🧐 Always curious
