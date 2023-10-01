@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning ExpressJS w/ MySQL
+- 🌱 I’m currently building ReactJS applications
 - 💞️ I’m looking to collaborate on projects in Python/C++/JS
 - 📫 How to reach me mhtgupta.281@gmail.com
 
