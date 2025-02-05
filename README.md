@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohit
 - 👀 I’m interested in Programming
-- 🌱 I’m currently building ReactJS applications
-- 💞️ I’m looking to collaborate on projects in Python/C++/JS
+- 👨‍💻 I’m a software engineer @ Volkswagen Group, India
 - 📫 How to reach me mhtgupta.281@gmail.com
 
 - 🧐 Always curious
